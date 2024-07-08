@@ -1,0 +1,12 @@
+.logo{
+    font-family: "Great Vibes", cursive;
+    font-style: italic;
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--color-secondary);
+    cursor: pointer;
+}
+
+.logo:hover{
+    color: var(--color-secondary-dark);
+}

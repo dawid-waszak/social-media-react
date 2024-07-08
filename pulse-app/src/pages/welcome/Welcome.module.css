@@ -1,0 +1,47 @@
+.welcome_con{
+    width: 100%;
+    padding-top: 5rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top_bar{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn_logout{
+    background-color: var(--color-secondary);
+    color: white;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.7rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn_logout:hover{
+    background-color: var(--color-secondary-dark);
+}
+
+.main_con{
+    display: flex;
+    gap: 2rem;
+}
+
+.left_con{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.middle_con{
+    min-width: 45rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

@@ -1,0 +1,33 @@
+.post_input{
+    padding: 0.8rem;
+    width: 100%;
+    resize: none;
+    border: 1px solid var(--color-primary);
+    border-radius: 5px;
+}
+
+.post_con{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+}
+
+.btn_post{
+    background-color: var(--color-secondary);
+    color: white;
+    border: none;
+    font-size: 0.9rem;
+    padding: 0.7rem;
+    border-radius: 10px;
+    cursor: pointer;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.btn_post:hover{
+    background-color: var(--color-secondary-dark);
+}
