@@ -50,6 +50,8 @@ Application has multiple functionalities:
  * post section (you can create posts and see posts of your friends),
  * friends section (here you will see all of your friends).
 
+<img src="/images/Pulse.png" alt="">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
